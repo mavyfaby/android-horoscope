@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.App.Snackbar" parent="Widget.Material3.Snackbar">
+        <item name="android:layout_margin">32dp</item>
+    </style>
+</resources>
